@@ -1,2 +1,4 @@
 gitHub
 wersja 1A
+
+Edycja pliku
